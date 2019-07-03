@@ -1,0 +1,17 @@
+connect to server
+set IMM :
+    users
+    IP Address
+
+Get IMM:
+    FW inventory
+    BIOS Boot order
+
+Add to XCA:
+
+In XCA:
+    Update FW
+    Set BIOS Patterns
+
+
+

@@ -1,0 +1,7 @@
+{
+    'userPw': 'Passw0rd',
+    'userName': 'testUser',
+    'description': 'New User account created by pyLXCA',
+    'groups': ['LXC-ADMIN'],
+    'PasswordChangeFirstAccess': True
+}
