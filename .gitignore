@@ -1,6 +1,6 @@
 .conf
-<<<<<<< HEAD
-
-=======
 .ini
->>>>>>> 694288d056df3da72e4e5c13c4af7d0574b1cd22
+
+__pycache__/
+
+
